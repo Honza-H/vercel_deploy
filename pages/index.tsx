@@ -19,7 +19,7 @@ const Home: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          Začít{' '}
           <code className={styles.code}>pages/index.tsx</code>
         </p>
 
